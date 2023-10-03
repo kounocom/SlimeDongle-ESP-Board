@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "SlimeDongle-ESP_Footprints")(type "KiCad")(uri "${KIPRJMOD}/Data/SlimeDongle-ESP_Footprints.pretty")(options "")(descr ""))
+)
