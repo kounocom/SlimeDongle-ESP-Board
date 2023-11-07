@@ -1,6 +1,5 @@
 # USB receiver for ESP-based SlimeVR trackers
-![Board Image](http://cdn.kouno.xyz/IBLkRjRN.png)
+![Board Image](http://cdn.kouno.xyz/dvUqKtGQ.png)
 ## Notes:
 
- - Currently untested!
  - Firmware won't be mine, not responsible for that

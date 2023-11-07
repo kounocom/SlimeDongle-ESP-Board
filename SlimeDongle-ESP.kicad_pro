@@ -45,7 +45,7 @@
         "silk_text_thickness": 0.15,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.15
+          "min_clearance": 0.19999999999999998
         }
       },
       "diff_pair_dimensions": [
@@ -55,7 +55,9 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "starved_thermal|108000000|125725000|42dc5bd4-5286-4bf8-830f-2b0cf603aa1a|210c2f45-863f-4a82-b4c2-865c63e118d2|F.Cu"
+      ],
       "meta": {
         "version": 2
       },
@@ -173,7 +175,8 @@
       ],
       "track_widths": [
         0.0,
-        0.15
+        0.15,
+        0.2
       ],
       "via_dimensions": [
         {
@@ -446,7 +449,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "Outputs/model.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
